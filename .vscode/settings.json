@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "admin_mode.h": "c",
+        "app.h": "c",
+        "stdio.h": "c",
+        "stdlib.h": "c"
+    }
+}
